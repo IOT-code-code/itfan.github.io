@@ -1,0 +1,13 @@
+{
+    "site_name": "弧光守望者",
+    "copyright": "SYSCDE",
+    "cates": [
+        {"name": "tech", "text":"工作"},
+        {"name": "life", "text":"生活"},
+        {"name": "other", "text":"其它"}
+    ],
+    "articles":[
+        {"title": "PPT Plex", "file": "2013-04-17-pptplex", "cate":"tech"}
+		
+        ]
+}
